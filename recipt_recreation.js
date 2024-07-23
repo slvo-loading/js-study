@@ -1,0 +1,18 @@
+console.log("Give us feedback @ survey.walmart.com")
+console.log("Thank you!")
+console.log("")
+console.log("             Walmart")
+console.log("||||||||||||||||||||||||||||||||||")
+console.log("")
+console.log("Item              Quantity  Price")
+console.log("----------------------------------")
+console.log("❤️ Red Paint         1      0.58")
+console.log("💛 Yellow Paint      1      0.58")
+console.log("💙 Blue Paint        1      0.58")
+console.log("🖤 Black Paint       1      0.58")
+console.log("🤍 White Paint       1      0.58")
+console.log("🖌️ Brushes           1      4.48")
+console.log("----------------------------------")
+console.log("          Total              7.87")
+
+
