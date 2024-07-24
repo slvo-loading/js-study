@@ -1,3 +1,4 @@
+//console
 console.log("Hi");
 console.log("😺 MEOW!");
 
@@ -26,5 +27,7 @@ console.log(" u___) |  /\\ V /_,-. ")
 console.log(" |____/>>U  \\_/-(_/  ")
 console.log("  )(  (__) //        ")
 console.log(" (__)     (__)       ")
+
+
 
 
