@@ -6,7 +6,7 @@ const memeArray = [
   ];
 
 
-  captionsArray = ["the one piece is real!", "that's when I realized, I f*cked up", "scibbidi", "sigma"];
+  const captionsArray = ["the one piece is real!", "that's when I realized, I f*cked up", "scibbidi", "sigma"];
 
   const img = document.getElementById("random_meme");
   const caption = document.getElementById("random-caption");
