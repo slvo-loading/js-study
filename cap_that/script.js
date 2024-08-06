@@ -8,7 +8,7 @@ const memeArray = [
 
   const captionsArray = ["the one piece is real!", "that's when I realized, I f*cked up", "scibbidi", "sigma"];
 
-  const img = document.getElementById("random_meme");
+  const img = document.getElementById("random-meme");
   const caption = document.getElementById("random-caption");
   const button = document.getElementById("generator-button");
 
